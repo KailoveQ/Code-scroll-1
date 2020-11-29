@@ -1,0 +1,9 @@
+.header {
+  background: black;
+  color: white;
+  position: absolute;
+  top: 20px;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  margin: auto;
+}
